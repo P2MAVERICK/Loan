@@ -13,7 +13,7 @@ const Navbar = () => {
                 <img src="https://autofinance.vercel.app/assets/logo-90776241.png" />
             </Box>
             <Box className='logoname font-bold text-2xl '>
-                    Auto Finance
+                    Auto Finances
             </Box>
         </Box>
         <Box className='navitems flex items-center'>
